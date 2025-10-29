@@ -182,6 +182,35 @@ Read our Contributing Guidelines
 <br>
 <br>
 <br>
+```bash
+#!/bin/bash
+# ...
+# ==============================================================
+# ⚠️  TRANSPARENCY NOTICE
+# ==============================================================
+
+echo ""
+echo "###############################################################"
+echo "# ⚠️  TRANSPARENCY NOTICE"
+echo "###############################################################"
+echo ""
+echo "I am currently in the process of updating my personal and business information."
+echo "At this time, I do NOT have an active bank account or phone number."
+echo ""
+echo "As soon as these become available, I will publicly provide verified contact and"
+echo "payment details through this repository or official project communication channels."
+echo ""
+echo "For security and privacy reasons, I will NOT upload or share any personal"
+echo "identification documents (such as passports or ID cards) on GitHub or any public platform."
+echo ""
+echo "Thank you for your understanding and patience."
+echo ""
+echo "— Julio Medvescek"
+echo "  Founder & Developer, Virtual Agrigroculture"
+echo "###############################################################"
+echo ""
+```
+<br>
 <h2 style="font-size:22px; font-family:Segoe UI; color:#00bfff; font-weight:600;">
 📜 Citation
 </h2>
