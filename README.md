@@ -182,15 +182,7 @@ Read our Contributing Guidelines
 <br>
 <br>
 <br>
-```bash
-#!/bin/bash
-# ...
-# ==============================================================
-# ⚠️  TRANSPARENCY NOTICE
-# ==============================================================
-
-echo ""
-echo "###############################################################"
+###############################################################"
 echo "# ⚠️  TRANSPARENCY NOTICE"
 echo "###############################################################"
 echo ""
@@ -205,11 +197,8 @@ echo "identification documents (such as passports or ID cards) on GitHub or any 
 echo ""
 echo "Thank you for your understanding and patience."
 echo ""
-echo "— Julio Medvescek"
-echo "  Founder & Developer, Virtual Agrigroculture"
-echo "###############################################################"
-echo ""
-```
+
+<br>
 <br>
 <h2 style="font-size:22px; font-family:Segoe UI; color:#00bfff; font-weight:600;">
 📜 Citation
