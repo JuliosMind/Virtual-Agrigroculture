@@ -1,7 +1,7 @@
 <h1 align="center">Virtual Agrigroculture</h1>
 
 <p align="center">
-  <img width="250" height="194" alt="Virtual Agrigroculture Logo" src="https://github.com/user-attachments/assets/3595366a-1471-4901-8427-e88f17702eb5" />
+<img width="670" height="551" alt="image" src="https://github.com/user-attachments/assets/9bcdd50a-655c-4bfb-92df-e3782fd15420" />
 </p>
 
 <p align="center">
