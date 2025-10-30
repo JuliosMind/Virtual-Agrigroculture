@@ -130,9 +130,10 @@ We follow a Zero-Trust, Public-Transparency model:
 - Public audit trails are accessible via the VA/Security-policy.md file.
 
 - Employees and contributors operate under physical and digital access controls.
+<br>
+To report vulnerabilities, open a Security Issue under the “Security” tab or fill out this form: 
+<br>
 
-To report vulnerabilities, open a Security Issue under the “Security” tab or email
-security@virtualagrigroculture.org.
 <br>
 <br>
 <br>
@@ -143,7 +144,9 @@ The DAO layer (Coin A) executes and enforces blockchain-level policy.
 Parameters such as transaction fees, burn rates, and treasury distribution are tunable through DAO vote and cryptographically verified.
 
 Governance source code:
+```bash
 VA/governance/dao_core.py
+```
 <br>
 <br>
 <br>
@@ -182,21 +185,24 @@ Read our Contributing Guidelines
 <br>
 <br>
 <br>
-###############################################################"
-echo "# ⚠️  TRANSPARENCY NOTICE"
-echo "###############################################################"
-echo ""
-echo "I am currently in the process of updating my personal and business information."
-echo "At this time, I do NOT have an active bank account or phone number."
-echo ""
-echo "As soon as these become available, I will publicly provide verified contact and"
-echo "payment details through this repository or official project communication channels."
-echo ""
-echo "For security and privacy reasons, I will NOT upload or share any personal"
-echo "identification documents (such as passports or ID cards) on GitHub or any public platform."
-echo ""
-echo "Thank you for your understanding and patience."
-echo ""
+<table style="border:2px solid #f0c040; border-radius:8px; background-color:#fffbea; width:100%; padding:10px;">
+<tr><th style="text-align:center; font-size:1.2em;">⚠️ TRANSPARENCY NOTICE</th></tr>
+<tr><td>
+
+I am currently in the process of updating my **personal and business information**.  
+At this time, I **do NOT have an active bank account or phone number**.  
+
+Once these become available, I will publicly provide **verified contact** and **payment details** through this repository or official project communication channels.  
+
+For **security and privacy reasons**, I will **NOT upload or share** any personal identification documents (such as passports or ID cards) on GitHub or any public platform.  
+
+Thank you for your understanding and patience. 🙏  
+
+</td></tr>
+</table>
+
+
+
 
 <br>
 <br>
