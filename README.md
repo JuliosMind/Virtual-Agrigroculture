@@ -105,7 +105,66 @@ Optional **(for blockchain node):**
 ```
 <br>
 <br>
+<h2 style="font-size:22px; font-family:Segoe UI; color:#00bfff; font-weight:600;">
+🧩 Notes on Installation
+</h2>
+
+- **Environment Isolation**:
+  - Always run VA components in a dedicated environment or virtual machine.
+  - The system enforces Proof-of-Burn, DAO governance, and on-chain audit layers that may conflict with global Python or Docker configurations.
 <br>
+
+- **Dependencies**:
+VA-core uses Python 3.10+ and requires dependencies listed in requirements.txt.
+Run:
+```bash
+pip install -r requirements.txt
+```
+<br>
+
+- **🔐 Security:**  
+  - Always operate within a **clean, verified environment** — free of third-party scripts, altered binaries, or unsigned dependencies.  
+  - For production builds, **compile exclusively from the verified commit hash** published in the **DAO Registry** to ensure cryptographic integrity and supply-chain authenticity.  
+  - Use checksums and signature verification (`sha3sum`, `ed448verify`) on critical components before deployment.
+
+<br>
+
+- **💾 Data Persistence:**  
+  - When deploying via Docker, mount a **persistent volume** to retain blockchain data, node state, and governance records across container restarts:  
+    ```bash
+    docker run -it -v ./data:/va/data virtual-agrigroculture
+    ```  
+  - For multi-node setups, ensure all volumes are **encrypted at rest** and **backed up through a secure channel** (VA-Vault or similar).
+
+<br>
+
+- **⚙️ Node Initialization:**  
+  - The `--init` flag initializes either a **validator node** (full consensus role) or a **light node** (read-only mirror) depending on configuration.  
+  - Example for test networks:  
+    ```bash
+    ./va-node --init --network testnet
+    ```  
+  - Use `--network mainnet` only after full audit verification and governance approval.
+
+<br>
+
+- **🏛️ Governance Integration:**  
+  - To participate in DAO voting, auditing, or policy execution, your **VAC-ID** must be **verified and synchronized** with the active governance node.  
+  - Before initiating any governance transaction, confirm that your node’s ledger state matches the **latest DAO checkpoint hash**.
+
+<br>
+
+> ⚠️ **Critical Advisory:**  
+> Never deploy **experimental**, **forked**, or **unverified** builds on the **mainnet**.  
+> Always validate functionality in **sandbox mode** using:
+> ```bash
+> ./va-node --network sandbox
+> ```
+> Proceed to public deployment only after DAO audit confirmation.
+
+<br>
+<br>
+
 <h2 style="font-size:22px; font-family:Segoe UI; color:#00bfff; font-weight:600;">
 🧠 Development Modules
 </h2>
