@@ -48,14 +48,18 @@ Virtual Agrigroculture enables you to:
 <br> 
 <br>
 <h2 style="font-size:22px; font-family:Segoe UI; color:#00bfff; font-weight:600;">
-🔄 Blockchain Architecture
+ 🔄 Blockchain Architecture
 </h2>
-Layer	Function	Example
-Core	Proof-of-Burn engine	Controls supply and burn verification
-Logic	DAO governance layer	Executes policy and budget decisions
-Audit	Smart contract verifier	Performs real-time contract analysis
-Oracle	Data bridge	Connects external verified feeds
-Wallet	Vaulted client	Supports CLI, GUI, and multi-sig protection
+
+| 🔧 Layer | 🧠 Function | ⚙️ Example |
+|:----------|:-------------|:------------|
+| **Core** | Proof-of-Burn engine | Controls supply and burn verification |
+| **Logic** | DAO governance layer | Executes policy and budget decisions |
+| **Audit** | Smart contract verifier | Performs real-time contract analysis |
+| **Oracle** | Data bridge | Connects external verified feeds |
+| **Wallet** | Vaulted client | Supports CLI, GUI, and multi-sig protection |
+
+
 <br>
 <br>
 <h2 style="font-size:22px; font-family:Segoe UI; color:#00bfff; font-weight:600;">
@@ -167,12 +171,34 @@ Through automated resource verification, we prevent waste and ensure social sust
 
 | Phase | Objective                                   | Status           |
 | :---- | :------------------------------------------ | :---------------- |
-| **1** | Foundational blockchain & core DAO          | ✅ Completed      |
-| **2** | Wallet + Oracle release                     | 🔄 In development |
-| **3** | Real estate registry (VARE)                 | ⏳ Testing        |
-| **4** | Full node network & validator onboarding    | 🔜 Q2 2026        |
-| **5** | Public DAO vote for sustainability index    | 🔜 Q4 2026        |
+| **1** | Foundational blockchain architecture & core DAO established | ✅ **Completed** |
+| **2** | €5.51 B Strategic Funding — EIB + BIS Innovation Hub Partnership | ⏰ **Pending Approval** |
+| **3** | Multi-coin wallet, oracle integration, and transaction bridge | 🔄 **In Development** |
+| **3.1** | VAC-ID Registry & Unique Name System — on-chain digital identity and custom name creation | 🧩 **Design Phase** |
+| **4** | Virtual Agrigroculture Real Estate (VARE) registry & smart-property contracts | ⏳ **Testing** |
+| **4.1** | DeFi Exchange (VAC-DEX) — decentralized liquidity & trading infrastructure | 🔄 **Prototype Stage** |
+| **4.2** | Lending & Credit Protocol — DAO-governed borrowing and yield system | ⚙️ **Architecture Design** |
+| **4.3** | Insurance Layer — collateral-backed protection with oracle risk validation | 🧠 **Concept Validation** |
+| **5** | Access to global stock markets via tokenized equity and compliance framework design | ⏰ **Planned Q3 2026** |
+| **5.1** | Run-to-Earn System — reward-based economic model integrating health, productivity, and sustainability | 🕹️ **Concept Stage** |
+| **6** | Full node network launch & validator onboarding | 🔜 **Q2 2026** |
+| **7** | Public DAO vote on Sustainability & Resource Index (SRI) | 🔜 **Q4 2026** |
+| **8** | Interplanetary expansion research — Asteroid Mining & Pluto Initiative | 🌌 **Concept Stage** |
+| **8.1** | Planetary Resonance Energy System (PRES) — decentralized clean-energy harmonization between celestial bodies | 🌍 **Planned Q2 2027** |
 
+
+### 🧭 Key Highlights
+
+- **Institutional Partnership:** €5.51B strategic funding with **EIB + BIS Innovation Hub** to accelerate blockchain and DeFi infrastructure.  
+- **Identity & Integrity:** VAC-ID system ensures verified, human-readable identities and prevents duplication or misuse.  
+- **Financial Ecosystem:** Integrated DeFi exchange, lending, and insurance layers connect users, investors, and assets in a transparent, DAO-controlled environment.
+- **Energy & Expansion:** **Planetary Resonance Energy System (PRES)** pioneers interplanetary clean-energy synchronization, leveraging harmonic resonance models for energy transfer.    
+- **Innovation Layer:** Run-to-Earn introduces a real-economy incentive system tied to sustainability and verified on-chain metrics.  
+- **Scalable Vision:** Expands from digital asset management to global stock integration — ultimately extending into interplanetary economic models.  
+
+
+
+> ⏰ **Note:** Timelines are indicative and subject to change depending on institutional approval, governance votes, and regulatory milestones.
 <br>
 <br>
 <br>
