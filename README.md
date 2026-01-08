@@ -96,7 +96,7 @@ Coin	Purpose	Burn Rate	Precision
 🛠️ Installation
 </h2>
 
-We recommend installing and running **Bank For Gloabl Quantum Settlements** components inside an isolated environment.
+We recommend installing and running **Bank For Global Quantum Settlements** components inside an isolated environment.
 
 
 ```bash
@@ -234,7 +234,7 @@ VA/governance/dao_core.py
 <h2 style="font-size:22px; font-family:Segoe UI; color:#00bfff; font-weight:600;">
 🌍 Vision
 </h2>
-Virtual Agrigroculture’s foundation is ethical automation:
+Bank For Global Quantum Settlements’ foundation is ethical automation:
 
 “To build systems that serve humanity — not the other way around.”
 
@@ -293,9 +293,16 @@ Read our Contributing Guidelines
 <tr><td>
 
 I am currently in the process of updating my **personal and business information**.  
-At this time, I **do NOT have an active bank account or phone number**.  
+Personal Phone Nr.: +352 661 514 629
+Email: julio.chairman@bankforglobalquantumsettlements.com
 
-Once these become available, I will publicly provide **verified contact** and **payment details** through this repository or official project communication channels.  
+Bank Info:
+Bank Name: Banque Raiffeisen
+Account Holder: Julio MEDVESCEK
+BIC: CCRALULLXXX
+IBAN: LU28 0099 7800 0156 0515
+
+ 
 
 For **security and privacy reasons**, I will **NOT upload or share** any personal identification documents (such as passports or ID cards) on GitHub or any public platform.  
 
