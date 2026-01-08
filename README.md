@@ -337,10 +337,10 @@ Read our Contributing Guidelines
 If you reference Virtual Agrigroculture in publications:
 
 ```bibtex
-@software{Bank_for_Global-Quantum_Settlements_2026,
+@software{Bank_for_Global_Quantum_Settlements_2026,
 author = {Medvescek, Julio},
 title = {Bank For Global Quantum Settlements: Modular Blockchain for Ethical Automation},
-year = 2025,
+year = 2026,
 publisher = {Bank For Global Quantum Settlements},
 version = {v1.0.0},
 url = {https://github.com/VirtualAgrigroculture/VA-core}
