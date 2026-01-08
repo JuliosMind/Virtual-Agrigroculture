@@ -298,27 +298,29 @@ Read our Contributing Guidelines
     <td style="font-size:0.95em; line-height:1.5;">
       I am currently in the process of updating my <strong>personal and business information</strong>.
       <br><br>
+<p><strong>Contact Information</strong></p>
+<ul style="margin:4px 0 12px 16px; padding:0;">
+  <li>Phone: +352 661 514 629</li>
+  <li>Email: julio.chairman@bankforglobalquantumsettlements.com</li>
+</ul>
 
-      <strong>Contact Information</strong>
-      <ul style="margin-top:6px;">
-        <li><strong>Phone:</strong> +352 661 514 629</li>
-        <li><strong>Email:</strong> julio.chairman@bankforglobalquantumsettlements.com</li>
-      </ul>
+<p><strong>Bank Information</strong></p>
+<ul style="margin:4px 0 12px 16px; padding:0;">
+  <li>Bank Name: Banque Raiffeisen</li>
+  <li>Account Holder: Julio MEDVESCEK</li>
+  <li>BIC: CCRALULLXXX</li>
+  <li>IBAN: LU28 0099 7800 0156 0515</li>
+</ul>
 
-      <strong>Bank Information</strong>
-      <ul style="margin-top:6px;">
-        <li><strong>Bank Name:</strong> Banque Raiffeisen</li>
-        <li><strong>Account Holder:</strong> Julio MEDVESCEK</li>
-        <li><strong>BIC:</strong> CCRALULLXXX</li>
-        <li><strong>IBAN:</strong> LU28 0099 7800 0156 0515</li>
-      </ul>
+<p>
+  For <strong>security and privacy reasons</strong>, I will
+  <strong>not upload or share</strong> any personal identification documents
+  (including passports or ID cards) on GitHub or any other public platform.
+</p>
 
-      <br>
-      For <strong>security and privacy reasons</strong>, I will <strong>not upload or share</strong> any personal identification documents
-      (including passports or ID cards) on GitHub or any other public platform.
-      <br><br>
-
-      Thank you for your understanding and patience. 🙏
+<p>
+  Thank you for your understanding and patience. 🙏
+</p>
     </td>
   </tr>
 </table>
