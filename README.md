@@ -298,6 +298,7 @@ I am currently in the process of updating my **personal and business information
 - Email: julio.chairman@bankforglobalquantumsettlements.com
 <br>
 <br>
+<br>
   Bank Info:
 - Bank Name: Banque Raiffeisen
 - Account Holder: Julio MEDVESCEK
