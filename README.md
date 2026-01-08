@@ -21,13 +21,13 @@
 
 For legal clarity, risk segregation, and fiscal efficiency, Virtual Agrigroculture becomes Bank For Global Quantum Settlements organized across three entities:
 
-- Banking Layer – Bank for Global Quantum Settlements
+- **Banking Layer** – Bank for Global Quantum Settlements
 Responsible for the design and operation of proprietary digital monetary instruments, exchange and settlement mechanisms, lending frameworks, and institutional-facing services.
 
-- Settlement Infrastructure Layer – Institution for Global Quantum Settlements
+- **Settlement Infrastructure Layer** – Institution for Global Quantum Settlements
 Focused on the definition of quantum-safe settlement, messaging, and interoperability standards for financial market infrastructures, including central banks, exchanges, and clearing institutions.
 
-- Intellectual Property Holding – Medvescek Entreprises Family Office
+- **Intellectual Property Holding** – Medvescek Entreprises Family Office
 Holder of all patents, copyrights, and proprietary methodologies, licensing the technology to operating entities and acting as a long-term investment and governance vehicle.
 
 <br>
