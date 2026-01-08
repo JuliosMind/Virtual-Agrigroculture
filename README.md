@@ -288,29 +288,41 @@ Read our Contributing Guidelines
 <br>
 <br>
 <br>
-<table style="border:2px solid #f0c040; border-radius:8px; background-color:#fffbea; width:100%; padding:10px;">
-<tr><th style="text-align:center; font-size:1.2em;">⚠️ TRANSPARENCY NOTICE</th></tr>
-<tr><td>
+<table style="border:2px solid #f0c040; border-radius:8px; background-color:#fffbea; width:100%; padding:12px; font-family:Arial, sans-serif;">
+  <tr>
+    <th style="text-align:center; font-size:1.2em; padding-bottom:8px;">
+      ⚠️ TRANSPARENCY NOTICE
+    </th>
+  </tr>
+  <tr>
+    <td style="font-size:0.95em; line-height:1.5;">
+      I am currently in the process of updating my <strong>personal and business information</strong>.
+      <br><br>
 
-I am currently in the process of updating my **personal and business information**.  
+      <strong>Contact Information</strong>
+      <ul style="margin-top:6px;">
+        <li><strong>Phone:</strong> +352 661 514 629</li>
+        <li><strong>Email:</strong> julio.chairman@bankforglobalquantumsettlements.com</li>
+      </ul>
 
-- Personal Phone Nr.: +352 661 514 629
-- Email: julio.chairman@bankforglobalquantumsettlements.com
-<br>
-<table> Bank Info:
-- Bank Name: Banque Raiffeisen
-- Account Holder: Julio MEDVESCEK
-- BIC: CCRALULLXXX
-- IBAN: LU28 0099 7800 0156 0515
-<tr><td>
- 
+      <strong>Bank Information</strong>
+      <ul style="margin-top:6px;">
+        <li><strong>Bank Name:</strong> Banque Raiffeisen</li>
+        <li><strong>Account Holder:</strong> Julio MEDVESCEK</li>
+        <li><strong>BIC:</strong> CCRALULLXXX</li>
+        <li><strong>IBAN:</strong> LU28 0099 7800 0156 0515</li>
+      </ul>
 
-For **security and privacy reasons**, I will **NOT upload or share** any personal identification documents (such as passports or ID cards) on GitHub or any public platform.  
+      <br>
+      For <strong>security and privacy reasons</strong>, I will <strong>not upload or share</strong> any personal identification documents
+      (including passports or ID cards) on GitHub or any other public platform.
+      <br><br>
 
-Thank you for your understanding and patience. 🙏  
-
-</td></tr>
+      Thank you for your understanding and patience. 🙏
+    </td>
+  </tr>
 </table>
+
 
 
 
