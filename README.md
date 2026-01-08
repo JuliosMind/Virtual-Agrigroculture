@@ -297,14 +297,12 @@ I am currently in the process of updating my **personal and business information
 - Personal Phone Nr.: +352 661 514 629
 - Email: julio.chairman@bankforglobalquantumsettlements.com
 <br>
-<br>
-<br>
-  Bank Info:
+<table> Bank Info:
 - Bank Name: Banque Raiffeisen
 - Account Holder: Julio MEDVESCEK
 - BIC: CCRALULLXXX
 - IBAN: LU28 0099 7800 0156 0515
-
+<tr><td>
  
 
 For **security and privacy reasons**, I will **NOT upload or share** any personal identification documents (such as passports or ID cards) on GitHub or any public platform.  
