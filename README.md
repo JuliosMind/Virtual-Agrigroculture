@@ -1,4 +1,4 @@
-<h1 align="center">Virtual Agrigroculture</h1>
+<h1 align="center">Bank For Global Quantum Settlements</h1>
 
 
 <p align="center">
@@ -17,10 +17,10 @@
 </p>
 
 <h2 style="font-size:22px; font-family:Segoe UI; color:#00bfff; font-weight:600;">
-  🚀 What is Virtual Agrigroculture?
+  🚀 What is Bank For Global Quantum Settlements?
 </h2>
 <br>
-Virtual Agrigroculture (VA) is a next-generation blockchain ecosystem designed for DeFi, digital governance, and tech-commerce.
+Bank For Global Quantum Settlements is a next-generation blockchain ecosystem designed for DeFi, digital governance, and tech-commerce.
 It introduces a modular blockchain secured by PQ-3 (Post-Quantum Generation 3) standards, following NIST-aligned post-quantum cryptographic frameworks for authentication, hashing, and digital signature integrity.
 Our mission is to redefine economic systems through transparency, automation, and sustainability.
 Virtual Agrigroculture powers a complete digital infrastructure where individuals, companies, and governments can interact through verified, auditable, and ethical processes — without intermediaries.
