@@ -296,8 +296,9 @@ I am currently in the process of updating my **personal and business information
 
 - Personal Phone Nr.: +352 661 514 629
 - Email: julio.chairman@bankforglobalquantumsettlements.com
-
-- Bank Info:
+<br>
+<br>
+  Bank Info:
 - Bank Name: Banque Raiffeisen
 - Account Holder: Julio MEDVESCEK
 - BIC: CCRALULLXXX
@@ -323,11 +324,11 @@ Thank you for your understanding and patience. 🙏
 If you reference Virtual Agrigroculture in publications:
 
 ```bibtex
-@software{virtual_agrigroculture_2025,
+@software{Bank_for_Global-Quantum_Settlements_2026,
 author = {Medvescek, Julio},
-title = {Virtual Agrigroculture: Modular Blockchain for Ethical Automation},
+title = {Bank For Global Quantum Settlements: Modular Blockchain for Ethical Automation},
 year = 2025,
-publisher = {Virtual Agrigroculture Foundation},
+publisher = {Bank For Global Quantum Settlements},
 version = {v1.0.0},
 url = {https://github.com/VirtualAgrigroculture/VA-core}
 
